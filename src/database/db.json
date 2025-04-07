@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "b713",
+      "name": "Yuzuvendra Thakur",
+      "username": "Yuzi9tyjtkt",
+      "email": "Y@gmail.com",
+      "phone": "9654123656"
+    },
+    {
+      "id": "ee61",
+      "name": "Radha Rani",
+      "username": "radhavallabh123",
+      "email": "radhavallabh@gmail.com",
+      "phone": "7485693215"
+    },
+    {
+      "id": "81df",
+      "name": "Krishna Yadav",
+      "username": "krishna22",
+      "email": "krishna@gmail.com",
+      "phone": "7456321236"
+    }
+  ]
+}
